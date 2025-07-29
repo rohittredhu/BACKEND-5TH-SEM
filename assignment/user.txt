@@ -1,0 +1,7 @@
+[
+  { "id": 1, "username": "john_doe" },
+  { "id": 2, "username": "priya_sharma" },
+  { "id": 3, "username": "ram_kumar" },
+  { "id": 4, "username": "radha_verma" },
+  { "id": 5, "username": "vivek_malhotra" }
+]
